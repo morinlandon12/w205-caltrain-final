@@ -53,6 +53,7 @@ Acme Gourmet Meals (AGM) is exploring new delivery options to expand to new cust
  - Using delivery robots
  - A hybrid approach of all of the above
  
+ 
  # Analysis & Strategy for Expansion
  Current situation
  - The Berkeley AGM location had $25mm in revenue with an average order value of $64
@@ -88,15 +89,35 @@ San Jose (B)
 - With a density of 5.6k/mi^2, San Jose is a viable option to test drone deliveries
 - A delivery person will pick up orders and commute ~2hrs to San Jose, after which a delivery drone can fly out within a radius of 8 miles to deliver under ~7 minutes
 
+
+# Revenue Analysis
+Key Assumptions: 
+- ~20% base penetration of customers similar to current customer penetration across Berkeley service zip codes
+- Customers will order 5 meals per order similar to a typical AGM customer
+- customers will buy 4.13 times per month
+- The POC will be run for 30 days
+
+Potential new customers in each location:
+- Berryessa: 1,181,963
+- Daly City: 1,108,404
+- Antioch: 325,681
+- Dublin: 374,831
+Total: 2,990,879
+
+Potential pilot revenue:
+- Base: $3,703,116.56
+- Bear: $1,234,372.19
+- Bull: $4,937,488.75
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+# Infrastructure Considerations
+The POC success is also dependant on the right infrastructure which allows us to be nimble, cost effective and scalable
+
+Requirements:
+- Flexibility: ability to maintain relationships between stations, transit times, flying time
+- Expansion: Ability to add mroe data as we explore innovative solutions
+- Performance
+- Scalability
+- Upfront Cost
+
+We recommend using neo4j to create maps and track delivery times across transit and dones. We also recommend MongoDB for a scalable schema.
