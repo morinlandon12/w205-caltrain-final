@@ -105,9 +105,9 @@ Potential new customers in each location:
 Total: 2,990,879
 
 Potential pilot revenue:
-- Base: $3,703,116.56
-- Bear: $1,234,372.19
-- Bull: $4,937,488.75
+- Base: $493,748.87
+- Bear: $370,311.66
+- Bull: $61,7186.09
  
  
 # Infrastructure Considerations
