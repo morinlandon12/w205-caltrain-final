@@ -59,7 +59,7 @@ Acme Gourmet Meals (AGM) is exploring new delivery options to expand to new cust
  - The Berkeley AGM location had $25mm in revenue with an average order value of $64
  - Customers: 8,100
  - Orders: 390k
- - The majroity of customers are concentrated around the Berkely store.
+ - The majority of customers are concentrated around the Berkely store.
      - On average a customer traveled 7.5 miles to come to the store
  
 To expand our business, we specifically need to reach a broader customer base than who we are currently serving. 
@@ -92,7 +92,7 @@ San Jose (B)
 
 # Revenue Analysis
 Key Assumptions: 
-- ~20% base penetration of customers similar to current customer penetration across Berkeley service zip codes
+- ~.2% base penetration of customers similar to current customer penetration across Berkeley service zip codes
 - Customers will order 5 meals per order similar to a typical AGM customer
 - customers will buy 4.13 times per month
 - The POC will be run for 30 days
