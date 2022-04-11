@@ -73,8 +73,6 @@ We also evaluated all the zip codes along the BART route and identified areas wh
 Based on the above methodology, our target areas for new customers are concentrated near the following cities:
 - San Francisco
 - Daly City 
-- South Bay/San Jose
-- Union City/Fremont
 
 Of the four locations identified, we recommend the following cities for the POC along with the proposed delivery strategies
 
@@ -98,16 +96,14 @@ Key Assumptions:
 - The POC will be run for 30 days
 
 Potential new customers in each location:
-- Berryessa: 1,181,963
+- San Jose (Berryessa): 1,181,963
 - Daly City: 1,108,404
-- Antioch: 325,681
-- Dublin: 374,831
-Total: 2,990,879
+Total: 2,290,367
 
 Potential pilot revenue:
-- Base: $493,748.87
-- Bear: $370,311.66
-- Bull: $61,7186.09
+- Base: $1,134,314.82
+- Bear: $850,736.12
+- Bull: $1,417,893.53
  
  
 # Infrastructure Considerations
